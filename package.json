@@ -1,0 +1,16 @@
+{
+  "name": "fitness_tracker",
+  "version": "0.0.0",
+  "description": "Fitness Tracker mechanism",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "author": "Rithesh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
